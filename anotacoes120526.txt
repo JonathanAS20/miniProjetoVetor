@@ -1,0 +1,12 @@
+CRUD 
+
+C  REATE 
+R  EAD 
+U  PDATE 
+D  ELETE 
+
+  OBJETO
+
+  FOREACH    for -> para   each -> cada
+
+CODAR E TESTAR
